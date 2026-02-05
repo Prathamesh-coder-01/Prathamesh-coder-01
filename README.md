@@ -1,4 +1,18 @@
+## About Us
 
+Hi, I'm Prathamesh Dabhade, a Full Stack Web Developer specializing in the MERN Stack.
+
+I love building dynamic and responsive web applications that provide great user experiences. My focus is on writing clean, maintainable code and developing scalable backend systems.
+
+Technologies I work with:
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- Git & GitHub
+
+This repository contains my projects, experiments, and learning journey in web development.
  
 
 # 💻 Tech Stack:
