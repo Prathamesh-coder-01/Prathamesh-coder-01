@@ -1,22 +1,98 @@
-## About Us
+# Hi 👋, I'm Prathamesh Dabhade
 
-Hi, I'm Prathamesh Dabhade, a Full Stack Web Developer specializing in the MERN Stack.
+### 🚀 Full Stack MERN Developer | JavaScript Enthusiast | Problem Solver
 
-I love building dynamic and responsive web applications that provide great user experiences. My focus is on writing clean, maintainable code and developing scalable backend systems.
+💡 Passionate about building scalable, responsive, and user-friendly web applications.  
+I love turning ideas into real-world products using clean code and modern technologies.
 
-Technologies I work with:
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-- Git & GitHub
+---
 
-This repository contains my projects, experiments, and learning journey in web development.
- 
+## 🙋‍♂️ About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🔭 Currently working on **Full Stack Web Projects (MERN)**
+- 🌱 Learning **Data Structures & Algorithms + Advanced React**
+- 💻 Strong in **JavaScript, React, Node.js, MongoDB**
+- 🎯 Goal: Become a **Top Software Developer**
+- ⚡ Fun fact: I enjoy solving coding challenges & improving UI/UX
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 📌 Focus Study & Break (Pomodoro App)
+> Productivity timer to improve focus with study & break sessions  
+**Tech:** HTML, CSS, JavaScript  
+🔗 Repo: https://github.com/Prathamesh-coder-01
+
+---
+
+### 📌 Weather App
+> Real-time weather forecast using API integration  
+**Tech:** JavaScript, API, CSS  
+🔗 Repo: https://github.com/Prathamesh-coder-01
+
+---
+
+### 📌 To-Do App (CRUD)
+> Task manager with Add, Update, Delete features  
+**Tech:** JavaScript, LocalStorage  
+🔗 Repo: https://github.com/Prathamesh-coder-01
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+HTML | CSS | JavaScript | React.js
+
+### Backend
+Node.js | Express.js
+
+### Database
+MongoDB | MySQL
+
+### Tools
+Git | GitHub | Postman | VS Code
+
+---
+
+## 🔥 Tech Badges
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-coder-01&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-coder-01&layout=compact&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced React (Hooks, Performance)
+- Backend Authentication (JWT)
+- System Design Basics
+- 
+---
+
+## 📫 Connect With Me
+
+📧 Email: prathameshdabhade71@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/prathamesh-dabhade-b42283365  
+🐙 GitHub: https://github.com/Prathamesh-coder-01  
+
+---
+
