@@ -52,7 +52,7 @@ Node.js | Express.js
 MongoDB | MySQL
 
 ### Tools
-Git | GitHub | Postman | VS Code
+Git | GitHub | VS Code
 
 ---
 
