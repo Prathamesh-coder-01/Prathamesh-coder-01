@@ -71,14 +71,6 @@ Git | GitHub | Postman | VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-coder-01&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-coder-01&layout=compact&theme=radical)
-
----
-
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms
