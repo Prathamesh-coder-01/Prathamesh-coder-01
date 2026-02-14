@@ -17,11 +17,12 @@ I love turning ideas into real-world products using clean code and modern techno
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### 📌 Focus Study & Break (Pomodoro App)
-> Productivity timer to improve focus with study & break sessions  
-**Tech:** HTML, CSS, JavaScript  
+### 📌 To-Do App (CRUD)
+> Task manager with Add, Update, Delete features  
+**Tech:** JavaScript, LocalStorage  
 🔗 Repo: https://github.com/Prathamesh-coder-01
 
 ---
@@ -33,12 +34,13 @@ I love turning ideas into real-world products using clean code and modern techno
 
 ---
 
-### 📌 To-Do App (CRUD)
-> Task manager with Add, Update, Delete features  
-**Tech:** JavaScript, LocalStorage  
+### 📌 Focus Study & Break (Pomodoro App)
+> Productivity timer to improve focus with study & break sessions  
+**Tech:** HTML, CSS, JavaScript  
 🔗 Repo: https://github.com/Prathamesh-coder-01
 
 ---
+
 
 ## 💻 Tech Stack
 
