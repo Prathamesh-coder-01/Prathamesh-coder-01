@@ -20,16 +20,17 @@ I love turning ideas into real-world products using clean code and modern techno
 
 ## 🚀 Featured Projects
 
-### 📌 To-Do App (CRUD)
-> Task manager with Add, Update, Delete features  
-**Tech:** JavaScript, LocalStorage  
-🔗 Repo: https://github.com/Prathamesh-coder-01
-
----
-
 ### 📌 Weather App
 > Real-time weather forecast using API integration  
 **Tech:** JavaScript, API, CSS  
+🔗 Repo: https://github.com/Prathamesh-coder-01
+> ---
+
+ 
+
+### 📌 To-Do App (CRUD)
+> Task manager with Add, Update, Delete features  
+**Tech:** JavaScript, LocalStorage  
 🔗 Repo: https://github.com/Prathamesh-coder-01
 
 ---
@@ -79,7 +80,6 @@ Git | GitHub | VS Code
 - Advanced React (Hooks, Performance)
 - Backend Authentication (JWT)
 - System Design Basics
-- 
 ---
 
 ## 📫 Connect With Me
