@@ -20,10 +20,13 @@ I love turning ideas into real-world products using clean code and modern techno
 
 ## 🚀 Featured Projects
 
+
 ### 📌 Weather App
 > Real-time weather forecast using API integration  
 **Tech:** JavaScript, API, CSS  
 🔗 Repo: https://github.com/Prathamesh-coder-01
+
+ 
 > ---
 
  
