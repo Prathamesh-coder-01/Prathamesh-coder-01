@@ -2,6 +2,8 @@
 
 ### 🚀 Full Stack MERN Developer | JavaScript Enthusiast | Problem Solver
 
+🚀 Aspiring Full Stack MERN Developer passionate about building responsive web applications with JavaScript, React, Node.js, Express, and MongoDB. Currently focused on Data Structures & Algorithms and creating real-world projects.
+
 💡 Passionate about building scalable, responsive, and user-friendly web applications.  
 I love turning ideas into real-world products using clean code and modern technologies.
  
@@ -9,11 +11,11 @@ I love turning ideas into real-world products using clean code and modern techno
  
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working on **Full Stack Web Projects (MERN)**
-- 🌱 Learning **Data Structures & Algorithms + Advanced React**
-- 💻 Strong in **JavaScript, React, Node.js, MongoDB**
-- 🎯 Goal: Become a **Top Software Developer**
-- ⚡ Fun fact: I enjoy solving coding challenges & improving UI/UX
+- 💻 Aspiring Full Stack MERN Developer
+- 🚀 Building real-world projects using React, Node.js, Express, and MongoDB
+- 📚 Currently learning Data Structures & Algorithms and Advanced React
+- 🎯 Working towards becoming a Software Development Engineer (SDE)
+- 🤝 Open to internships and collaboration opportunities
 
 ---
 
@@ -30,10 +32,17 @@ I love turning ideas into real-world products using clean code and modern techno
 > ---
 
  
+### 📌 To-Do App
 
-### 📌 To-Do App (CRUD)
-> Task manager with Add, Update, Delete features  
-**Tech:** JavaScript, LocalStorage  
+A responsive task management application that allows users to add, edit, delete, and persist tasks using LocalStorage.
+
+**Features**
+- ✅ Add tasks
+- ✏️ Update tasks
+- 🗑️ Delete tasks
+- 💾 LocalStorage persistence
+
+**Tech Stack:** HTML, CSS, JavaScript  
 🔗 Repo: https://github.com/Prathamesh-coder-01
 
 ---
@@ -83,6 +92,7 @@ Git | GitHub | VS Code
 - Advanced React (Hooks, Performance)
 - Backend Authentication (JWT)
 - System Design Basics
+- Build scalable web applications and grow into a skilled Full Stack Software Engineer by continuously learning and solving real-world problems.
 ---
 
 ## 📫 Connect With Me
