@@ -92,7 +92,6 @@ Git | GitHub | VS Code
 - Advanced React (Hooks, Performance)
 - Backend Authentication (JWT)
 - System Design Basics
-- Build scalable web applications and grow into a skilled Full Stack Software Engineer by continuously learning and solving real-world problems.
 ---
 
 ## 📫 Connect With Me
