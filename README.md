@@ -98,7 +98,7 @@ Git | GitHub | VS Code
 
 📧 Email: prathameshdabhade71@gmail.com   
 💼 LinkedIn: https://www.linkedin.com/in/prathamesh-dabhade-b42283365  
-🐙 GitHub: https://github.com/Prathamesh-coder-01  
+🐙 GitHub: https://github.com/Prathamesh-coder-01   
 
 ---
 
