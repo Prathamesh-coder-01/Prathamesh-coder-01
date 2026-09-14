@@ -95,6 +95,13 @@ Git | GitHub | VS Code
 - System Design Basics
 ---
 
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-coder-01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-coder-01&layout=compact&theme=radical)
+
+---
+
 ## 📫 Connect With Me
 
 📧 Email: prathameshdabhade71@gmail.com   
