@@ -39,7 +39,7 @@ on the user's search.
 🛠️ Tech Stack
 JavaScript | HTML | CSS | Weather API
 
-🔗 Repo: https://github.com/Prathamesh-coder-01
+🔗 Repo: https://github.com/Prathamesh-coder-01/Project-Repository/tree/master/Project_02_weather_App
 
  
 > ---
