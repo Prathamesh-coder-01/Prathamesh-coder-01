@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack MERN Developer | JavaScript Enthusiast | Problem Solver
 
-🚀 Full Stack MERN Developer passionate about building responsive web applications with JavaScript, React, Node.js, Express, and MongoDB. Currently focused on Data Structures & Algorithms and creating real-world projects.
+🚀 Full Stack MERN Developer focused on building responsive, scalable, and user-friendly web applications. I enjoy solving problems with JavaScript, building REST APIs, and turning ideas into real-world products. Currently strengthening my DSA, React, and backend development skills.
 
 💡 Passionate about building scalable, responsive, and user-friendly web applications.  
 I love turning ideas into real-world products using clean code and modern technologies.
@@ -23,9 +23,22 @@ I love turning ideas into real-world products using clean code and modern techno
 ## 🚀 Featured Projects
 
 
-### 📌 Weather App
-> Real-time weather forecast using API integration  
-**Tech:** JavaScript, API, CSS  
+### 🌤️ Weather App
+
+A responsive weather application that fetches real-time weather
+data using a weather API and displays current conditions based
+on the user's search.
+
+✨ Features
+- 🔍 Search weather by city
+- 🌡️ Current temperature and conditions
+- 💨 Wind and humidity information
+- 📱 Responsive design
+- ⚡ API integration
+
+🛠️ Tech Stack
+JavaScript | HTML | CSS | Weather API
+
 🔗 Repo: https://github.com/Prathamesh-coder-01
 
  
@@ -89,17 +102,21 @@ Git | GitHub | VS Code
  
 ## 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- Advanced React (Hooks, Performance)
-- Backend Authentication (JWT)
-- System Design Basics
+- 🧠 Data Structures & Algorithms
+- ⚛️ Advanced React & Performance Optimization
+- 🔐 Authentication & Authorization with JWT
+- 🏗️ REST API Design
+- 🗄️ MongoDB & Database Design
+- 📐 System Design Fundamentals
+  
 ---
+## 🔭 What I'm Working On
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prathamesh-coder-01&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prathamesh-coder-01&layout=compact&theme=radical)
+- Building full-stack MERN applications
+- Practicing Data Structures & Algorithms
+- Improving React performance and architecture
+- Learning backend authentication and authorization
+- Building projects that solve real-world problems
 
 ---
 
