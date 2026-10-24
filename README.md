@@ -1,4 +1,4 @@
-# Hi 👋, I'm Prathamesh Dabhade
+# Hi 👋, I'm Prathamesh Bhausaheb Dabhade
 
 ### 🚀 Full Stack MERN Developer | JavaScript Enthusiast | Problem Solver
 
